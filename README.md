@@ -20,15 +20,15 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 
 The following REQUIRED features are completed:
 
-- [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [X] Make an API call to an API of your choice using AsyncHTTPClient
+- [X] Display at least three (3) pieces of data for each API entry retrieved
+- [X] A working Button requests a new API entry and updates the data displayed
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
+- [X] Add a query to the API request
   - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [X] Build a UI to allow users to add that query
 
 The following EXTRA features are implemented:
 
@@ -52,6 +52,15 @@ GIF created with **your chosen GIF tool**
 - [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+
+<div>
+    <a href="https://www.loom.com/share/a173dd8407914ead95356d73b1d1459d">
+      <p>Loom Cropping - 29 October 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a173dd8407914ead95356d73b1d1459d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a173dd8407914ead95356d73b1d1459d-8f14bc039ba47a5c-full-play.gif">
+    </a>
+  </div>
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
