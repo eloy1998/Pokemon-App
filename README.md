@@ -54,15 +54,17 @@ GIF created with **your chosen GIF tool**
 ## Notes
 
 <div>
-    <a href="https://www.loom.com/share/a173dd8407914ead95356d73b1d1459d">
+    <a href="//imgur.com/a/ihB3jo8">
       <p>Loom Cropping - 29 October 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/a173dd8407914ead95356d73b1d1459d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a173dd8407914ead95356d73b1d1459d-8f14bc039ba47a5c-full-play.gif">
+    <a href="//imgur.com/a/ihB3jo8">
+      <img style="max-width:300px;" src="//imgur.com/a/ihB3jo8.gif">
     </a>
   </div>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
