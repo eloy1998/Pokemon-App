@@ -54,12 +54,7 @@ GIF created with **your chosen GIF tool**
 ## Notes
 
 <div>
-    <a href="//imgur.com/a/ihB3jo8">
-      <p>Loom Cropping - 29 October 2025 - Watch Video</p>
-    </a>
-    <a href="//imgur.com/a/ihB3jo8">
-      <img style="max-width:300px;" src="//imgur.com/a/ihB3jo8.gif">
-    </a>
+https://imgur.com/a/ihB3jo8.gif
   </div>
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
