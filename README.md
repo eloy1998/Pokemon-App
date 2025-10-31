@@ -53,12 +53,16 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
+
+
 <div>
-https://imgur.com/a/ihB3jo8.gif
+    <a href="https://imgur.com/a/gEILwsb">
+    </a>
+    <a href="https://imgur.com/a/gEILwsb">
+      <img style="max-width:300px;" src="https://imgur.com/a/gEILwsb.gif">
+    </a>
   </div>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
