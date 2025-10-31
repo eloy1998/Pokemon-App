@@ -62,6 +62,7 @@ GIF created with **your chosen GIF tool**
     </a>
   </div>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ihB3jo8"  ><a href="//imgur.com/a/ihB3jo8">Pokemon App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
